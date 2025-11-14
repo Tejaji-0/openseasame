@@ -1,5 +1,5 @@
 Comment,Designator,Footprint,JLCPCB Part #
-"Battery_Cell","BT1","OpenTama:Battery_Pads_4x4",""
+"Battery_Cell","BT1","OpenSesame:Battery_Pads_4x4",""
 "4.7uF","C1","Capacitor_SMD:C_1206_3216Metric","C29823"
 "330nF/25V","C11","Capacitor_SMD:C_0603_1608Metric","C1615"
 "1uF","C12","Capacitor_SMD:C_0603_1608Metric","C15849"
@@ -11,9 +11,9 @@ Comment,Designator,Footprint,JLCPCB Part #
 "100nF","C5,C8,C9,C10","Capacitor_SMD:C_0402_1005Metric","C1525"
 "10uF","C6","Capacitor_SMD:C_1206_3216Metric","C13585"
 "1uF","C7","Capacitor_SMD:C_1206_3216Metric","C1848"
-"LED_RGB","D1","OpenTama:LED_RGB_TC5050","C784540"
+"LED_RGB","D1","OpenSesame:LED_RGB_TC5050","C784540"
 "Conn_01x09","J1","Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical",""
-"Conn_01x14","J2","OpenTama:Hirose_FH34SRJ-14S-0.5SH_1x14-1MP_P0.50mm_Horizontal","C324724"
+"Conn_01x14","J2","OpenSesame:Hirose_FH34SRJ-14S-0.5SH_1x14-1MP_P0.50mm_Horizontal","C324724"
 "Conn_01x07","J3","Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical",""
 "USB_C_Receptacle_USB2.0","J4","Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12","C165948"
 "BOOT0","JP1","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",""
@@ -43,3 +43,4 @@ Comment,Designator,Footprint,JLCPCB Part #
 "STM32L072CBTx","U3","Package_QFP:LQFP-48_7x7mm_P0.5mm","C465977"
 "USBLC6-2SC6","U4","Package_TO_SOT_SMD:SOT-23-6","C2827654"
 "32768Hz - 12,5 pF","Y1","Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm","C32346"
+
