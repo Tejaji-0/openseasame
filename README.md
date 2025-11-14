@@ -1,6 +1,6 @@
-# OpenSeasame
+# OpenSesame
 
-OpenSeasame is a compact, low-power open-hardware door/lock controller designed for long battery life and simple, tactile interaction. It's built around an STM32L0-series MCU and provides a small OLED display, RGB status LED, piezo speaker, three buttons, and USB-C for data and charging.
+OpenSesame is a compact, low-power open-hardware door/lock controller designed for long battery life and simple, tactile interaction. It's built around an STM32L0-series MCU and provides a small OLED display, RGB status LED, piezo speaker, three buttons, and USB-C for data and charging.
 
 Quick highlights
 - Low-power STM32L072CBT microcontroller (L0 series)
@@ -13,7 +13,7 @@ Quick highlights
 - Small footprint and power-saving firmware
 
 Why this project
-OpenSeasame aims to be an open, hackable, battery-friendly building block for door control, access tokens, or other embedded UI projects. The design prioritises low standby power, a simple local UI, and easy firmware development.
+OpenSesame aims to be an open, hackable, battery-friendly building block for door control, access tokens, or other embedded UI projects. The design prioritises low standby power, a simple local UI, and easy firmware development.
 
 Images
 
