@@ -30,22 +30,6 @@ Hardware
 - Power on; the OLED will show the boot UI.
 - Use the three buttons to navigate: short-press for selection, long-press for alternate actions (e.g., enter configuration). Exact button behaviour is firmware-dependent — see the firmware docs.
 
-Flashing firmware
-
-Recommended: PlatformIO (works well with STM32 and common bootloaders)
-1. Install PlatformIO: https://platformio.org
-2. Clone this repository:
-   git clone https://github.com/Tejaji-0/openseasame.git
-3. Open the project in VS Code with the PlatformIO extension or use the CLI.
-4. Build and upload:
-   pio run -t upload
-
-Project layout (top level)
-- firmware/ — MCU firmware source and build files
-- hardware/ — schematics, PCB layouts, BOM (if present)
-- docs/ — design notes and usage documentation
-- LICENSE — project license (CERN‑OHL‑S v2)
-
 Power and low-power considerations
 The STM32L0 family is optimised for low-power operation. Firmware uses sleep and peripheral standby modes to maximise battery life. If you add peripherals or change the board, re-measure current draw and adjust wake/sleep behaviour accordingly.
 
