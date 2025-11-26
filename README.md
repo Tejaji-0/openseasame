@@ -33,6 +33,8 @@ Hardware
 Power and low-power considerations
 The STM32L0 family is optimised for low-power operation. Firmware uses sleep and peripheral standby modes to maximise battery life. If you add peripherals or change the board, re-measure current draw and adjust wake/sleep behaviour accordingly.
 
+This repo also includes a 3d case with .step files
+
 Contributing
 Contributions are welcome. Suggested workflow:
 1. Open an issue to discuss larger changes or file a bug.
