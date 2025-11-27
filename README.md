@@ -17,6 +17,13 @@ OpenSesame aims to be an open, hackable, battery-friendly building block for doo
 
 Images
 
+<img width="810" height="688" alt="image" src="https://github.com/user-attachments/assets/5f8ecb6d-ee9b-42ac-af4d-7b74cc4abeca" />
+Case and pcb : https://github.com/Tejaji-0/openseasame/blob/main/OpenSeasame_case.step
+
+<img width="841" height="729" alt="image" src="https://github.com/user-attachments/assets/2632a366-c64f-4d10-87b0-ea1197547d7c" /> 
+Case only : https://github.com/Tejaji-0/openseasame/blob/main/OpenSeasame_caseonly.step
+
+
 ![Device front view](https://github.com/user-attachments/assets/be12a38c-e522-4aad-b491-eedd3de9e4ac)
 
 ![Device side view](https://github.com/user-attachments/assets/f2dc01b5-bfb4-4dcf-b215-6f4afa0d6af1)
